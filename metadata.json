@@ -1,0 +1,6 @@
+{
+  "name": "SubZero: Interactive Negative Numbers Lab & Puzzles",
+  "description": "Master addition, subtraction, multiplication, and division of negative numbers through visual zero-pair counters, submarine navigation, number lines, and gamified math puzzles for middle schoolers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
